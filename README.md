@@ -1,4 +1,4 @@
-# Sistema de Gerenciamento de Produtos
+# Sistema de Gerenciamento de Produtos para Oficina
 
 Este é um sistema simples de gerenciamento de produtos em Python. Ele permite cadastrar, listar, editar e remover produtos. Abaixo estão as principais funcionalidades:
 
